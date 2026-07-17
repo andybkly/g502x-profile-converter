@@ -1,11 +1,11 @@
-G502 X PROFILE CONVERTER FOR WINDOWS
+G502 X TO LIGHTSPEED PROFILE CONVERTER FOR WINDOWS
 ====================================
 
 No Python or other software is required. Windows 10 or Windows 11 is required.
 
 WHAT IT DOES
 Copies button, scroll-wheel and G-Shift assignments from Logitech G502 X wired
-profiles to the corresponding G502 X Lightspeed profiles. It intentionally
+profiles to the corresponding G502 X LIGHTSPEED profiles. It intentionally
 keeps DPI, polling and other mouse-specific settings separate.
 
 HOW TO USE IT
